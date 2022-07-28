@@ -1,0 +1,86 @@
+
+
+  #testo{
+      height: 200px;
+      width: 1800px;
+      background-color: rgb(101, 199, 101);
+      margin-left: 200px;
+      border-radius: 5px;
+     
+  }
+  
+  
+  #smile{
+      float: left;
+      height: 50px;
+      width: 50px;
+      position: relative;
+      left: 30px;
+      top: 20px;
+  }
+
+  h1{
+      float: left;
+  }
+
+  h2{
+      color: gold;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font: bold;
+      position: relative;
+      top: 100px;
+      right: 290px;
+     
+  }
+
+  #quadrante{
+      
+      border: 2px solid green;
+      height: 800px;
+      width: 1800px;
+      margin-left: 200px;
+      border-radius: 5px;
+  }
+  h3{
+      float: left;
+  }
+  #start{
+      position: relative;
+      left: 800px;
+      height: 80px;
+      width: 200px;
+      background-color: rgb(112, 216, 159);
+      border-radius: 20px;
+      border: 2px solid gold;
+      font-size: large;
+      margin-top: 20px;
+  }
+  #shape{
+      height: 100px;
+      width: 100px;
+      background-color: red;
+      position: relative;
+      top: 80px;
+      left: 100px;
+      border-radius: 100%;
+  }
+
+  
+  
+  #pulsante{
+    height: 100px;
+    width: 1800px;
+    background-color: green;
+    margin-left: 200px;
+  }
+  #bar-time{
+    margin-left: 200px;
+    height: 100px;
+    width: 1805px;
+    background-color: green;
+    border-radius: 10px;
+  }
+  #inserisci{
+    position: relative;
+    bottom: 20px;
+  }
